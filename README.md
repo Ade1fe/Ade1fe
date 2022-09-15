@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ade1fe
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java programming language 
-- 💞️ I’m looking to collaborate on everything Java
+- 👀 I’m interested in Software Engineering  
 - 📫 How to reach me +2349038257434
 
 <!---
