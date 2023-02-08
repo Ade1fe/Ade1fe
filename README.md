@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ade1fe
-- 👀
+- 👀 Front End Developer
 - 📫 How to reach me +2349038257434
 
 <!---
