@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ade1fe
-- 👀 I’m interested in Software Engineering  
+- 👀
 - 📫 How to reach me +2349038257434
 
 <!---
